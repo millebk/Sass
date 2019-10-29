@@ -1,11 +1,11 @@
 body {
     background-color:blue;
-    
 }
 
-.one {
+.box1 {
     background-color: green;
 }
-.one {
+
+.box2 {
     background-color: rgb(104, 196, 104);
 }
