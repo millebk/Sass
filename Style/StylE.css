@@ -5,7 +5,11 @@ body {
 
 .one {
     background-color: green;
+    width: 100px;
+    height: 100px;
 }
 .one {
     background-color: rgb(104, 196, 104);
+    width: 100px;
+    height: 100px;
 }
