@@ -1,4 +1,11 @@
-Body {
+body {
     background-color:blue;
     
+}
+
+.one {
+    background-color: green;
+}
+.one {
+    background-color: rgb(104, 196, 104);
 }
