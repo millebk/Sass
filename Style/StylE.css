@@ -4,4 +4,11 @@ body {
 
 .box1 {
     background-color: green;
+    width: 100px;
+    height: 100px;
+}
+.two {
+    background-color: rgb(104, 196, 104);
+    width: 100px;
+    height: 100px;
 }
